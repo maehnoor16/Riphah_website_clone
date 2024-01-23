@@ -1,0 +1,669 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"text-decoration"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"sess",
+				"sess_regenerate"
+			],
+			[
+				"co",
+				"correctnumber"
+			],
+			[
+				"ech",
+				"echo()"
+			],
+			[
+				"has",
+				"hash_hmac()"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"_SE",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"mys",
+				"mysql_connect()"
+			],
+			[
+				"die",
+				"die()"
+			],
+			[
+				"heade",
+				"header()"
+			],
+			[
+				"_S",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"_",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch()"
+			],
+			[
+				"my",
+				"mydate"
+			],
+			[
+				"sys",
+				"system()"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"_s",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"real_e",
+				"mysql_real_escape_string()"
+			],
+			[
+				"fn",
+				"fname"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ali",
+				"box-align"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"P",
+				"$_POST\tPOST['…']"
+			],
+			[
+				"blu",
+				"darkblue"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"con",
+				"container3"
+			],
+			[
+				"dark",
+				"darkgoldenrod"
+			],
+			[
+				"in",
+				"mintcream"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"l",
+				"initial"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"style",
+				"font-style"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"car",
+				"carousel"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"to",
+				"togglebtn"
+			],
+			[
+				"bann",
+				"banner"
+			],
+			[
+				"c",
+				"carousel-item"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tec",
+				"text-decoration-color"
+			],
+			[
+				"s",
+				"sienna"
+			],
+			[
+				"se",
+				"seashell"
+			],
+			[
+				"le",
+				"value"
+			],
+			[
+				"col",
+				"bgcolor"
+			],
+			[
+				"side",
+				"side3"
+			],
+			[
+				"si",
+				"side2"
+			],
+			[
+				"n",
+				"line-through"
+			],
+			[
+				"sla",
+				"slategrey"
+			],
+			[
+				"ligh",
+				"lightgrey"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"nav",
+				"navy"
+			],
+			[
+				"align-",
+				"align-content"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"ro",
+				"grid-row-gap"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"whit",
+				"whitesmoke"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"Pho",
+				"photography_website"
+			],
+			[
+				"widh",
+				"width"
+			],
+			[
+				"photo",
+				"Photography"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/SEMESTER 04/Web Development/Lab Task/riphah_homepage.html",
+		"/C/Users/DELL/Downloads/PREPERATION/PREPERATION/conn.php",
+		"/C/Users/DELL/Downloads/PREPERATION/PREPERATION/test.php",
+		"/C/Users/DELL/Downloads/PREPERATION/PREPERATION/index.php",
+		"/C/Users/DELL/Downloads/PREPERATION/PREPERATION/validation.php",
+		"/C/xampp/htdocs/Netflix/js/edituser.php",
+		"/C/xampp/htdocs/Netflix/create.php",
+		"/C/xampp/htdocs/streaming/admin.php",
+		"/C/xampp/htdocs/Netflix/update.php",
+		"/C/xampp/htdocs/Netflix/login.php",
+		"/C/xampp/htdocs/orangelinetrain/structure.sql",
+		"/C/xampp/htdocs/train_ticketing/header.php",
+		"/C/xampp/htdocs/train_ticketing/index.php",
+		"/C/xampp/htdocs/train_ticketing/home.php",
+		"/C/xampp/htdocs/train_ticketing/login.php",
+		"/C/xampp/htdocs/train_ticketing/admin_class.php",
+		"/C/xampp/htdocs/train_ticketing/ajax.php",
+		"/C/xampp/htdocs/train_ticketing/db_connect.php",
+		"/C/xampp/htdocs/train_ticketing/manage_prices.php",
+		"/C/xampp/htdocs/train_ticketing/manage_user.php",
+		"/C/xampp/htdocs/train_ticketing/navbar.php",
+		"/C/xampp/htdocs/train_ticketing/receipt.php",
+		"/C/xampp/htdocs/train_ticketing/site_settings.php",
+		"/C/xampp/htdocs/train_ticketing/readme.txt",
+		"/C/xampp/htdocs/train_ticketing/stations.php",
+		"/C/xampp/htdocs/train_ticketing/prices.php",
+		"/C/xampp/htdocs/train_ticketing/topbar.php",
+		"/C/xampp/htdocs/train_ticketing/users.php",
+		"/C/xampp/htdocs/train_ticketing/daily_report.php",
+		"/C/xampp/htdocs/coursera/solution.php",
+		"/C/xampp/htdocs/coursera/fail.php",
+		"/C/xampp/htdocs/coursera/check.php",
+		"/C/xampp/htdocs/game.php",
+		"/C/xampp/htdocs/Netflix/netflix.php",
+		"/C/xampp/htdocs/Netflix/signup.php",
+		"/C/xampp/htdocs/Netflix/contactform.php",
+		"/C/xampp/htdocs/Netflix/connection.php",
+		"/C/xampp/htdocs/Netflix/style.css",
+		"/C/Users/DELL/Downloads/index.php",
+		"/C/Users/DELL/Downloads/oneri(compressed).zip",
+		"/C/xampp/htdocs/Netflix/kids.php",
+		"/C/xampp/htdocs/Lab_mega_quiz_29061/update.php",
+		"/C/xampp/htdocs/Lab_mega_quiz_29061/index.php",
+		"/C/xampp/htdocs/Lab_mega_quiz_29061/create.php",
+		"/C/xampp/htdocs/Lab_mega_quiz_29061/read.php",
+		"/C/xampp/htdocs/Lab_mega_quiz_29061/display.php",
+		"/C/xampp/htdocs/Lab_mega_quiz_29061/insert.php",
+		"/C/xampp/htdocs/Netflix/logout.php",
+		"/C/xampp/htdocs/Netflix/hp_netflix_1.php",
+		"/C/xampp/htdocs/Netflix/login_netflix.html",
+		"/C/xampp/htdocs/Netflix/registration.php",
+		"/C/xampp/htdocs/Netflix/netflix.html",
+		"/G/practice_session/lala.html",
+		"/G/style.css",
+		"/G/netflix.html",
+		"/G/register.css",
+		"/G/register.html",
+		"/G/LogIn-Style.css",
+		"/G/login_netflix.html",
+		"/G/Homepage-style.css",
+		"/G/practice_session/session.php",
+		"/G/practice_session/login.css",
+		"/G/practice_session/login.html",
+		"/G/practice_session/config.php",
+		"/G/kids.html",
+		"/G/hp_netflix_1.html",
+		"/E/SEMESTER 04/Web Development/Lab Task/riphah_homepage.css",
+		"/G/updated shayan/mahnoor_web_project/web_final_Project/hp_netflix_1.html",
+		"/G/updated shayan/mahnoor_web_project/web_final_Project/login_netflix.html",
+		"/G/updated shayan/mahnoor_web_project/web_final_Project/LogIn-Style.css",
+		"/G/updated shayan/mahnoor_web_project/web_final_Project/netflix.html",
+		"/G/updated shayan/mahnoor_web_project/web_final_Project/style.css",
+		"/G/updated shayan/mahnoor_web_project/web_final_Project/Homepage-style.css",
+		"/E/SEMESTER 04/Web Development/PHP/connection.php",
+		"/E/SEMESTER 04/Web Development/PHP/form.php",
+		"/E/SEMESTER 04/Web Development/PHP/backend.php",
+		"/G/updated shayan/mahnoor_web_project/web_final_Project/netflix.js",
+		"/G/netflix.js",
+		"/C/Users/DELL/Downloads/mahnoor_web_project.zip",
+		"/E/homepage_1.html",
+		"/G/Home page_hashim.css",
+		"/E/ttttt.html",
+		"/G/ttttt.css",
+		"/G/ttttt.html",
+		"/E/SEMESTER 04/Web Development/Lab Task/Home_Page 1.html",
+		"/C/Users/DELL/Downloads/Lab 4.rar",
+		"/C/Users/DELL/Desktop/Javascript/JS_multi_division.html",
+		"/C/Users/DELL/Desktop/Javascript/JS_calculator.html",
+		"/C/Users/DELL/Desktop/Javascript/conditional_calculator.html",
+		"/C/Users/DELL/Desktop/Javascript/temperature.html",
+		"/C/Users/DELL/Desktop/Javascript/JS_date.html",
+		"/C/Users/DELL/Desktop/Javascript/JS.html",
+		"/C/Users/DELL/Desktop/Javascript/JS_calculator.css",
+		"/C/Users/DELL/Desktop/Lab Task/riphah_homepage.html",
+		"/C/Users/DELL/Desktop/Web Progamming Assignment-01_29061/Lab task.html",
+		"/C/Users/DELL/Desktop/Web Progamming Assignment-01_29061/html5 tags.html",
+		"/C/Users/DELL/Desktop/classtask.html",
+		"/C/Users/DELL/Desktop/mahnoor.uvgui.DELL",
+		"/C/Users/DELL/Desktop/Form Making/Photography_Website.html",
+		"/C/Users/DELL/Desktop/Form Making/CV.html",
+		"/C/Users/DELL/Desktop/Web Development Course/Home_Page.html",
+		"/C/Users/DELL/Desktop/Add to cart/Add to Cart.css",
+		"/C/Users/DELL/Desktop/Photography Website/photography_website/pimple_edit.jpg",
+		"/F/faisal_masjid.jpg",
+		"/C/Users/DELL/Desktop/Web Development Course/Payment_form",
+		"/C/Users/DELL/Desktop/Web Development Course/WEB_DEVELOPMENT.html",
+		"/C/Users/DELL/test_site/index.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 50.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "riphah_homepage.sublime-project",
+	"replace":
+	{
+		"height": 60.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.4,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

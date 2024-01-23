@@ -1,0 +1,365 @@
+*{
+            margin: 0px;
+            padding: 0px;
+        }
+        header{
+            background-color: rgb(54, 53, 53);
+            height: 80px;
+        }
+        header address{
+            display: inline;
+        }
+        header a{
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            padding: 5px;
+            margin: 0px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            cursor:auto;
+           
+        }
+        header i{
+            color: white;
+            padding: 10px;
+            margin: 10px;
+        }
+        header button{
+            background-color: rgb(190, 50, 50);
+            color:white;
+            font-size: 20px;
+            width: 150px;
+            height:50px;
+            border-radius: 20px;
+            margin: 10px;
+            border-color:  rgb(190, 50, 50);
+            float: right;
+            
+        }
+        nav{
+            background-color: rgb(10, 10, 61);
+            height: 120px;
+            text-align: center;            
+        }
+        
+        .logo{
+          
+            height: 120px;
+            display: inline-block;
+            margin: 10px;
+           
+            padding-right: 150px;
+        }
+        nav a{
+            bottom:35px;
+            position: relative;
+            margin: 5px;
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            font-size: 16px;
+            
+          padding: 10px;
+        }
+        nav i{
+            color: white;
+            bottom:35px;
+            position: relative;
+        }
+        a:hover{
+            text-decoration:  5px underline rgb(194, 27, 27);
+            display:inline;
+        }
+        p{
+            margin: 10px;
+            padding: 20px;
+            font-size: 18px;
+            font-family: 'Times New Roman', Times, serif;
+            line-height: 25px;
+        }
+    .imagegallery{
+        height: 600px;
+        margin: 20px;       }
+    .pic{
+        position: relative;
+        left: 50px;
+        height: 40%;
+        width: 30%;
+        float: left;
+        margin: 5px;
+        padding: 5px;
+    }
+    .pic a{
+        color:black;
+        opacity: 0.7;
+    }
+    .pic a:hover{
+        opacity: 1;
+        
+    }
+    .pic img{
+        border:2px solid rgb(194, 129, 10)
+
+    }
+    .text {
+  position: absolute;
+  top: 80%;
+  bottom: 20%;
+ font-size: 20px;
+ padding: 20px;
+ display: inline;
+ width: 90%;
+ height:20px;
+  background-color: rgb(194, 129, 10);
+  text-align: center;
+}
+
+.box{
+
+    margin:10px;
+    padding: 0px;
+    position: relative;
+    top:20px;
+    background-color:black;
+    width: 40%;
+    height: 60%;
+    display: inline;
+    float: left;
+}
+.box2{
+
+    width: 25%;
+    margin: 0px;
+    padding: 0px;
+    height:45%;
+    background-color: aqua;
+    border: 0.5px solid black;
+    position: relative;
+    float: left;
+    top:25px; 
+}
+.box img{
+    margin: 0px;
+    padding: 0px;
+    width: 80%;
+    height: 360px;
+}
+.box img:hover{
+    height: 300px; 
+  opacity: 0.7;
+}
+.desc{
+    height: 250px;
+    width:24%;
+    float: left;
+    position: relative;
+    top:10px;
+    left:  20px;
+    background-color: rgb(4, 4, 66);
+    display: block;
+   /* border: 5px solid rgb(4, 4, 66);*/
+}
+.desc i{
+    color: white;
+    position: relative;
+    top:20%;
+    left:40%;
+    font-size: 50px;
+}
+.desc h2{
+
+    color:white; 
+    text-align:center;
+}
+.desc p{
+   color:gray; 
+   margin:0px;
+    padding:2px;
+    text-align:center;
+}
+.desc h3{
+color:brown; 
+text-align:center; 
+font-size:20px;
+ font-family:monospace;
+}
+.campuses{
+    height: 50%;
+    display: block;
+    margin: 20px;
+}
+.pictures{
+    width: 300px;
+    height: 80%;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    position: relative;
+    left:20px;
+}
+.pictures img{
+    display: block;
+  transition: transform .4s;  
+}
+.pictures:hover img{
+    transform: scale(1.2);
+  transform-origin: 50% 50%;
+} 
+.events{
+    height: 50%;
+    width: 25%;
+
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    right:150px;
+}
+.description{
+    height:30%;
+}
+.description h2{
+    color: brown;
+    display: block;
+    font-size: 30px;
+    padding: 0px;
+}
+.description span{
+    color: black;
+    font-size: 20px;
+    display: block;
+text-decoration: 5px underline solid brown;
+
+}
+.description h3{
+    display: inline;
+    float: left;
+    position: relative;
+    left:80px;
+    bottom:60px;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+.numberPages{
+    margin: 0px;
+    height: 20px;
+    padding: 40px;
+    text-align: center;
+}
+.numberPages a{
+    border: 2px solid gray;
+    border-radius: 60%;
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    color: gray;
+}
+.numberPages a:hover{
+    color: black;
+    border: 2px solid black;
+}
+.strength{
+    height: 30%;
+    width: 22%;
+    position: relative;
+    top:50px;
+    left:30px;
+    float:left;
+    border: 2px solid orange;
+}
+.strength:hover{
+    border: 2px solid white;
+}
+.strength i{
+    color: white;
+    position: relative;
+    top:20%;
+    left:40%;
+    font-size: 50px;
+}
+.strength h2{
+   text-align: center;
+   color: white;
+   position: relative;
+   top:30px;
+   right:10px;
+}
+.strength p{
+    text-align: center;
+   color: white;
+}
+.right{
+    height: 100%;
+    width: 30%;
+    background-image: url("ripahaUrdu.jpg");
+    background-attachment: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+.right1{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(31, 31, 31,0.7);
+    height: 100%;
+    width: 100%;
+}
+.right1 h2{
+    color:white;
+        position: relative;
+        display: block;
+    top:50px;
+    left: 20px;
+}
+.right1 h3{
+    color: white;
+    position: relative;
+    top:100px;
+    left: 20px;
+}
+hr{
+    background-color:orange ;
+     height:2px; color:orange;
+      border-width: 0;
+       position: relative;
+        top:120px
+
+}
+footer{
+    background-color: rgb(31, 31, 31);
+    height: 700px;
+}
+.portions{
+    height: 100%;
+    width:24%;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    border-left: 1px solid gray;
+}
+.portions address{
+    color:grey;
+    margin: 45px;
+    padding:20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.portions h3{
+    color:orange;
+    margin: 5px;
+    padding: 5px;
+}
+.portions h1{
+    color:white;
+    margin: 20px;
+    padding: 30px;
+    font-size: 18px;
+}
+.portions h4{
+    color:white;
+    margin: 5px;
+    padding: 5px;
+    font-size: 15px;
+}
